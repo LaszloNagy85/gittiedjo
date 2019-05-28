@@ -3,3 +3,6 @@ def introduce():
 
 def.joke():  
     print("kutya")
+
+def add(a,b):
+    return a + b
