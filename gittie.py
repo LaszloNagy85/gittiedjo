@@ -11,3 +11,4 @@ def add(a,b):
 
 def shout():
     print("something")
+    print("As loud as f**k")
