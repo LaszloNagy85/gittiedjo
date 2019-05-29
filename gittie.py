@@ -11,4 +11,8 @@ def add(a,b):
 
 def shout():
     print("something")
+<<<<<<< Updated upstream
     print("As loud as f**k")
+=======
+    print("just do it")
+>>>>>>> Stashed changes
